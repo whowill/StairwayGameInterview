@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9817f9deef983d46b7d394e78d31cfd, type: 3}
+  m_Name: guide 4
+  m_EditorClassIdentifier: 
+  craftingImage: {fileID: 21300000, guid: 4cdbb2baf1bd7d2448e64d032e77d585, type: 3}
+  craftingName: recipe 4
+  craftingCategory: category 4
+  craftingDescription: 
+  craftingMaterial:
+  - {fileID: 11400000, guid: 929a77db81d5b534a9725333559c3e1c, type: 2}
+  - {fileID: 11400000, guid: 829398384b47fa740a403e12edfa7aae, type: 2}
+  - {fileID: 11400000, guid: 9e20340d5540ad94ebbc7d88b17a74cf, type: 2}

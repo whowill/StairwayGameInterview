@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9817f9deef983d46b7d394e78d31cfd, type: 3}
+  m_Name: guide 8
+  m_EditorClassIdentifier: 
+  craftingImage: {fileID: 21300000, guid: 3a04ccd771d918b429746f9e9fe683dd, type: 3}
+  craftingName: recipe 8
+  craftingCategory: category 8
+  craftingDescription: This text is over 150 characters long, including spaces and
+    punctuation. You can count the characters to verify this statement. This sentence
+    is added to make the text longer than 150 characters.
+  craftingMaterial:
+  - {fileID: 11400000, guid: 230d2d4928bb02041a2663df835e5d65, type: 2}
+  - {fileID: 11400000, guid: 829398384b47fa740a403e12edfa7aae, type: 2}
