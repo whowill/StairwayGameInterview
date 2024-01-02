@@ -1,2 +1,7 @@
 # StairwayGameInterview
-Stairway Interview UI test, it look ugly... but the code is working for crafting, desription craft, Inventory and donation system
+Stairway Interview, i need to make:
+-Inventory system
+
+-crating system
+
+-Donation system
